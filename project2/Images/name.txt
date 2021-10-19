@@ -1,0 +1,16 @@
+ak47
+binoculars
+boom-box
+calculator
+cannon
+computer-keyboard
+computer-monitor
+computer-mouse
+doorknob
+dumb-bell
+flashlight
+head-phones
+joy-stick
+palm-pilot
+video-projector
+washing-machine
