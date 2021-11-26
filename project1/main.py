@@ -321,7 +321,7 @@ def abstract(path_material,path_captions,begin, end, step_size):
         img = cv2.imread(fname)
         origin_img = img
         if img is None:
-            break;
+            break
         #print(img.shape)
 
         """
